@@ -1,6 +1,6 @@
 ## 飞机大战
 
-环境：python3 + pygame
+环境：python + pygame
 
 项目结构：
 PlaneBattle
